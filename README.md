@@ -23,14 +23,14 @@ This project demonstrates how to deploy and configure Active Directory Domain Se
 
 8. Created a new OU for clients and organized resources by placing Client-1 into the appropriate OU and confirming proper domain connectivity  
 
----
-
 <p align="center">
 
 <img src="Images/Roles-1.png" width="600">  
 <img src="Images/Roles-2.png" width="600">  
 <img src="Images/install.png" width="600">  
 <img src="Images/OU.png" width="600">  
-<img src="Images/New user.png" width="600">  
+<img src="Images/Newuser.png" width="600">  
 <img src="Images/Admin.png" width="600">
+
 </p>
+--
