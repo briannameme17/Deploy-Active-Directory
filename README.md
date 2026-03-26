@@ -29,8 +29,8 @@ This project demonstrates how to deploy and configure Active Directory Domain Se
 <img src="images/Roles-2.png" width="600">  
 <img src="images/install.png" width="600">  
 <img src="images/OU.png" width="600">  
-<img src="images/Newuser.png" width="600">  
+<img src="images/New user.png" width="600">  
 <img src="images/Admin.png" width="600">
 
 </p>
---
+
